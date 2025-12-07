@@ -161,8 +161,8 @@ MIT License
 ## 支持
 
 如果您在使用过程中遇到问题，请通过以下方式联系：
-- 提交Issue: [GitHub Issues](https://github.com/yourname/BiliHome/issues)
-- 查看源码: [GitHub Repository](https://github.com/yourname/BiliHome)
+- 提交Issue: [GitHub Issues](https://github.com/Moxin1044/BiliHome/issues)
+- 查看源码: [GitHub Repository](https://github.com/Moxin1044/BiliHome)
 
 ## 版本历史
 
