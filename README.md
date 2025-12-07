@@ -21,7 +21,7 @@ pip install BiliHome
 ### 从源码安装
 
 ```bash
-git clone https://github.com/yourname/BiliHome.git
+git clone https://github.com/Moxin1044/BiliHome.git
 cd BiliHome
 pip install .
 ```
