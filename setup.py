@@ -30,7 +30,7 @@ setup(
         "requests>=2.25.0",
     ],
     project_urls={
-        "Bug Reports": "https://github.com/yourname/BiliHome/issues",
-        "Source": "https://github.com/yourname/BiliHome",
+        "Bug Reports": "https://github.com/Moxin1044/BiliHome/issues",
+        "Source": "https://github.com/Moxin1044/BiliHome",
     },
 )
