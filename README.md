@@ -12,7 +12,7 @@
 
 ## 安装
 
-### 使用pip安装
+### 使用pip安装（推荐）
 
 ```bash
 pip install BiliHome
@@ -25,6 +25,7 @@ git clone https://github.com/Moxin1044/BiliHome.git
 cd BiliHome
 pip install .
 ```
+
 
 ## 快速开始
 
